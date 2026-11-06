@@ -1,0 +1,10 @@
+<resources>
+    <color name="app_bg">#F6F5F1</color>
+    <color name="icon_bg">#2F5BEA</color>
+    <style name="Theme.LinkKeeper" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/app_bg</item>
+        <item name="android:statusBarColor">@color/app_bg</item>
+        <item name="android:navigationBarColor">@color/app_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
